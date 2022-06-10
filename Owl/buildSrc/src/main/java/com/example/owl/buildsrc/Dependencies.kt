@@ -21,7 +21,7 @@ object Versions {
 }
 
 object Libs {
-    const val androidGradlePlugin = "com.android.tools.build:gradle:7.2.0"
+    const val androidGradlePlugin = "com.android.tools.build:gradle:7.2.1"
 
     object Kotlin {
         private const val version = "1.6.21"
